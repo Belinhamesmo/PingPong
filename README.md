@@ -7,5 +7,3 @@ e então abre um canvas com as raquetes e a bolinha do jogo. Aí é só arrastar
 
 Caso, perca alguma bolinha, o jogo se encerra. 
 
-Jogue, veja e edite o código em: https://openprocessing.org/sketch/1279890
-
